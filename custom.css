@@ -1,0 +1,35 @@
+
+       .ui-li-static.ui-collapsible > .ui-collapsible-heading {margin: 0;}
+       .ui-li-static.ui-collapsible {padding: 0;}
+       .ui-li-static.ui-collapsible > .ui-collapsible-heading > .ui-btn {border-top-width: 0;
+       }
+       .ui-li-static.ui-collapsible > .ui-collapsible-heading.ui-collapsible-heading-collapsed > .ui-btn,
+       .ui-li-static.ui-collapsible > .ui-collapsible-content {border-bottom-width: 0;}
+        .charts{
+            width: 50%;
+            height: 500px;
+            position: relative;
+            float: left;
+        }
+        .nav-glyphish-example .ui-btn { padding-top: 40px !important; }
+        .nav-glyphish-example .ui-btn:after { width: 30px!important; height: 30px!important; margin-left: -15px !important; box-shadow: none!important; -moz-box-shadow: none!important; -webkit-box-shadow: none!important; -webkit-border-radius: 0 !important; border-radius: 0 !important; }
+        #Opcoes:after { background:  url("plugins/mobile/images/icons-png/bars-white.png") 50% 50% no-repeat; background-size: 24px 22px; }
+
+       .ui-panel-dismiss{
+            z-index: 1000;
+        }
+
+       .dv-agent-info{
+           height: 110px;
+           width: 33%;
+
+           position: relative;
+           float: left;
+           text-align: center;
+
+       }
+       .img-agentstatus{
+
+           width: 50px;
+           height: 50px;
+       }
